@@ -11,7 +11,7 @@ Esta é a minha primeira entrega de um Projeto Conceitual de Banco de Dados da d
 
 + **Registro de Pedidos:** Todas as informações essenciais dos pedidos realizados são registradas, incluindo os produtos solicitados, suas quantidades e o valor total do pedido.
 
-+ **Compra de Produtos Múltiplos:** Os clientes têm a capacidade de adquirir vários produtos em um único pedido.
++ **Compra de Produtos Múltiplos:** Os clientes podem adquirir vários produtos em um único pedido.
 
 + **Status do Pedido:** É possível registrar as informações sobre o status dos pedidos, data e hora, além de conter um campo para guardar o tempo de espera. 
 
