@@ -23,9 +23,7 @@ Esta é a minha primeira entrega de um Projeto Conceitual de Banco de Dados da d
 
 + **Relatórios Mensais de Vendas:** O sistema gera relatórios mensais das vendas realizadas, auxiliando na análise e reconhecimento das lojas que estão vendendo mais bebidas.
 
-
-
+## Imagem do Projeto Conceitual 
+![ze_delivery drawio (2)](https://github.com/anacristinags/Banco_de_Dados/assets/145061688/f9908ba9-54c5-4559-a242-3ea5b31d75a2)
+### Conclusão  
 Esse projeto de Banco de Dados foi fundamental para o meu aprendizado e esclarecimento do conteúdo. Além de me proporcionar uma melhor compreensão de como utilizar o github.
-
-
-
