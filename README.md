@@ -25,5 +25,7 @@ Esta é a minha primeira entrega de um Projeto Conceitual de Banco de Dados da d
 
 ## Imagem do Projeto Conceitual 
 ![ze_delivery drawio (2)](https://github.com/anacristinags/Banco_de_Dados/assets/145061688/f9908ba9-54c5-4559-a242-3ea5b31d75a2)
+### Link de acesso: 
+https://drive.google.com/file/d/1sOlo1ouLnFERQL4N4WJj6FIsGagO8f7H/view?usp=sharing  
 ### Conclusão  
 Esse projeto de Banco de Dados foi fundamental para o meu aprendizado e esclarecimento do conteúdo. Além de me proporcionar uma melhor compreensão de como utilizar o github.
