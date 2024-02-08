@@ -26,7 +26,7 @@ Esta é a minha primeira entrega de um Projeto de Banco de Dados da disciplina d
 ### Requisitos para o Script.SQL
 + **CREATE TABLE:** Para todas as tabelas;
 + **INSERT, UPDATE, SELECT e DELETE:** Para todas as tabelas (4 comandos para cada);
-+ **SELECT com JOIN:** Ao menos 4 SELECTs com JOiN.
++ **SELECT com JOIN:** Ao menos 4 SELECTs com JOIN.
 
 ## Imagens do Projeto
 ### Projeto Conceitual
